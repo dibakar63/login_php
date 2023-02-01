@@ -1,0 +1,60 @@
+body{
+    display: flex;
+    padding-left:100px;
+    align-items: center;
+    background: linear-gradient(rgb(244, 40, 40),yellow);
+}
+
+.login-box{
+    max-width:700px;
+    float:none;
+    margin:150px auto;
+    
+}
+.register-box{
+    max-width:700px;
+    float:none;
+    margin:150px auto;
+    
+}
+
+.login-page{
+    background: linear-gradient(rgba(57, 57, 198, 0.5),rgba(215, 103, 33, 0.5));
+    padding:30px;
+    border-radius: 30px;
+}
+
+.register-page{
+    background: linear-gradient(rgba(57, 57, 198, 0.5),rgba(215, 103, 33, 0.5));
+    padding:30px;
+    border-radius: 30px;
+}
+
+.form-control{
+    background-color: transparent !important;
+
+}
+
+.login-btn{
+    
+    
+    margin-bottom: auto;
+    
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 10px;
+    
+}
+ .logo{
+   border-radius: 10px;
+   align-items: center;
+   margin-left: 120px;
+}
+.content{
+    margin-left: 60px;
+    font-size: 20px;
+    color: rgb(72, 28, 193);
+}
+.title{
+    margin-left: 60px;
+}
